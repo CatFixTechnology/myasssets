@@ -1,2 +1,1 @@
-# myasssets
-Creating a separate repo for assets
+# A repo for assets
